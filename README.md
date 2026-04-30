@@ -28,6 +28,8 @@ Implementation_Part/
 │── Implementation_Part_D.ipynb   # main experimental notebook
 │── diabetes.csv                 # dataset
 │── README.md                    # project documentation
+│── Final_paper.pdf              # project report
+│── files *.png                  # graphics
 ```
 
 ---
