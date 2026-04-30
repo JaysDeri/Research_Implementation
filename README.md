@@ -116,8 +116,7 @@ Additional analysis includes:
 
 * Preprocessing significantly affects model performance
 * Tree-based models are less sensitive to scaling
-* LDA may lead to high precision but low recall
-* SVM achieved the best overall results
+* XGBoost achieved the best overall results
 
 ---
 
